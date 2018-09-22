@@ -1,0 +1,7 @@
+1,trung
+2,obama
+3,trump
+4,hai
+5,baby
+6,hung
+7,thang
